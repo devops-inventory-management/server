@@ -17,21 +17,34 @@ public class DbSeeder
 
     public async Task SeedAsync()
     {
-        if (await _context.Products.AnyAsync())
+        if (
+            await _context.Users.AnyAsync()
+            || await _context.Products.AnyAsync()
+            || await _context.Expenses.AnyAsync()
+            || await _context.Sales.AnyAsync()
+            || await _context.Purchases.AnyAsync()
+            || await _context.ExpensesByCategory.AnyAsync()
+            || await _context.PurchaseSummaries.AnyAsync()
+            || await _context.SaleSummaries.AnyAsync()
+            || await _context.ExpenseSummaries.AnyAsync()
+        )
         {
             return;
         }
 
-        // pwd
-        var currentDirectory = Directory.GetCurrentDirectory();
+        var seedData = JsonConvert.DeserializeObject<SeedData>(File.ReadAllText("seedData.json"));
 
-        var products = JsonConvert.DeserializeObject<List<Product>>(
-            File.ReadAllText(Path.Combine(currentDirectory!, "products.json"))
-        );
-
-        if (products != null)
+        if (seedData != null)
         {
-            _context.Products.AddRange(products);
+            _context.Products.AddRange(seedData.Products);
+            _context.Users.AddRange(seedData.Users);
+            _context.ExpensesByCategory.AddRange(seedData.ExpensesByCategory);
+            _context.Expenses.AddRange(seedData.Expenses);
+            _context.Purchases.AddRange(seedData.Purchases);
+            _context.Sales.AddRange(seedData.Sales);
+            _context.PurchaseSummaries.AddRange(seedData.PurchaseSummaries);
+            _context.SaleSummaries.AddRange(seedData.SaleSummaries);
+            _context.ExpenseSummaries.AddRange(seedData.ExpenseSummaries);
             await _context.SaveChangesAsync();
         }
     }
