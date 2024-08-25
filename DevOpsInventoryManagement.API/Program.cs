@@ -19,6 +19,22 @@ builder.Services.AddDbContext<AppDbContext>(
 
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IExpenseService, ExpenseService>();
+builder.Services.AddScoped<IExpenseRepository, ExpenseRepository>();
+builder.Services.AddScoped<IExpenseByCategoryService, ExpenseByCategoryService>();
+builder.Services.AddScoped<IExpenseByCategoryRepository, ExpenseByCategoryRepository>();
+builder.Services.AddScoped<IExpenseSummaryService, ExpenseSummaryService>();
+builder.Services.AddScoped<IExpenseSummaryRepository, ExpenseSummaryRepository>();
+builder.Services.AddScoped<IPurchaseService, PurchaseService>();
+builder.Services.AddScoped<IPurchaseRepository, PurchaseRepository>();
+builder.Services.AddScoped<IPurchaseSummaryService, PurchaseSummaryService>();
+builder.Services.AddScoped<IPurchaseSummaryRepository, PurchaseSummaryRepository>();
+builder.Services.AddScoped<ISaleService, SaleService>();
+builder.Services.AddScoped<ISaleRepository, SaleRepository>();
+builder.Services.AddScoped<ISaleSummaryService, SaleSummaryService>();
+builder.Services.AddScoped<ISaleSummaryRepository, SaleSummaryRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<DbSeeder>();
 
 builder.Services.AddControllers();
