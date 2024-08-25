@@ -1,0 +1,1916 @@
+{
+  "Users": [
+    {
+      "Name": "Carly",
+      "Email": "cvansalzberger0@cisco.com"
+    },
+    {
+      "Name": "Inesita",
+      "Email": "imcconnachie1@oaic.gov.au"
+    },
+    {
+      "Name": "Tulley",
+      "Email": "tbridywater2@wikimedia.org"
+    },
+    {
+      "Name": "Amelia",
+      "Email": "atondeur3@posterous.com"
+    },
+    {
+      "Name": "Bucky",
+      "Email": "btompkin4@moonfruit.com"
+    },
+    {
+      "Name": "Sherline",
+      "Email": "sinston5@issuu.com"
+    },
+    {
+      "Name": "Leontine",
+      "Email": "lchartres6@edublogs.org"
+    },
+    {
+      "Name": "Cloris",
+      "Email": "cmorrall7@un.org"
+    },
+    {
+      "Name": "Tobiah",
+      "Email": "trubinchik8@time.com"
+    },
+    {
+      "Name": "Colet",
+      "Email": "cmincini9@dell.com"
+    },
+    {
+      "Name": "Van",
+      "Email": "vswaitea@imdb.com"
+    },
+    {
+      "Name": "Mella",
+      "Email": "mheartyb@sphinn.com"
+    },
+    {
+      "Name": "Karyl",
+      "Email": "kmatteic@live.com"
+    },
+    {
+      "Name": "Berrie",
+      "Email": "bnortcliffed@linkedin.com"
+    },
+    {
+      "Name": "Giselle",
+      "Email": "gsollitte@weibo.com"
+    },
+    {
+      "Name": "Niall",
+      "Email": "nrebeirof@netvibes.com"
+    },
+    {
+      "Name": "Afton",
+      "Email": "ajozaitisg@craigslist.org"
+    },
+    {
+      "Name": "Letisha",
+      "Email": "lgrimsdykeh@blogger.com"
+    },
+    {
+      "Name": "Julio",
+      "Email": "jcuniami@weibo.com"
+    },
+    {
+      "Name": "Dana",
+      "Email": "dstrugnellj@51.la"
+    },
+    {
+      "Name": "Gertie",
+      "Email": "gmacrok@networkadvertising.org"
+    },
+    {
+      "Name": "Vidovik",
+      "Email": "vriddettl@usgs.gov"
+    },
+    {
+      "Name": "Yancey",
+      "Email": "yfentemm@51.la"
+    },
+    {
+      "Name": "Lyndell",
+      "Email": "ldurninn@sciencedirect.com"
+    },
+    {
+      "Name": "Heidie",
+      "Email": "hrackhamo@craigslist.org"
+    },
+    {
+      "Name": "Clem",
+      "Email": "cthorbonp@smugmug.com"
+    },
+    {
+      "Name": "Paten",
+      "Email": "pblasdaleq@quantcast.com"
+    },
+    {
+      "Name": "Daisi",
+      "Email": "dsedgwickr@addthis.com"
+    },
+    {
+      "Name": "Sara-ann",
+      "Email": "sblundels@csmonitor.com"
+    }
+  ],
+  "Products": [
+    {
+      "Name": "Product 1",
+      "Price": 456.04,
+      "Rating": 2.25,
+      "StockQuantity": 124834,
+      "Description": "Product 1 Description"
+    },
+    {
+      "Name": "Product 2",
+      "Price": 899.05,
+      "Rating": 3.56,
+      "StockQuantity": 799402,
+      "Description": "Product 2 Description"
+    },
+    {
+      "Name": "Product 3",
+      "Price": 264.37,
+      "Rating": 3.23,
+      "StockQuantity": 842192,
+      "Description": "Product 3 Description"
+    },
+    {
+      "Name": "Product 4",
+      "Price": 555.93,
+      "Rating": 4.09,
+      "StockQuantity": 236333,
+      "Description": "Product 4 Description"
+    },
+    {
+      "Name": "Product 5",
+      "Price": 82.62,
+      "Rating": 4.8,
+      "StockQuantity": 601208,
+      "Description": "Product 5 Description"
+    },
+    {
+      "Name": "Product 6",
+      "Price": 435.44,
+      "Rating": 0.27,
+      "StockQuantity": 124068,
+      "Description": "Product 6 Description"
+    },
+    {
+      "Name": "Product 7",
+      "Price": 759.15,
+      "Rating": 2.46,
+      "StockQuantity": 234525,
+      "Description": "Product 7 Description"
+    },
+    {
+      "Name": "Product 8",
+      "Price": 974.99,
+      "Rating": 4.82,
+      "StockQuantity": 739009,
+      "Description": "Product 8 Description"
+    },
+    {
+      "Name": "Product 9",
+      "Price": 639.9,
+      "Rating": 1.17,
+      "StockQuantity": 754285,
+      "Description": "Product 9 Description"
+    },
+    {
+      "Name": "Product 10",
+      "Price": 62.95,
+      "Rating": 4.6,
+      "StockQuantity": 205240,
+      "Description": "Product 10 Description"
+    },
+    {
+      "Name": "Product 11",
+      "Price": 699.0,
+      "Rating": 1.65,
+      "StockQuantity": 399124,
+      "Description": "Product 11 Description"
+    },
+    {
+      "Name": "Product 12",
+      "Price": 899.61,
+      "Rating": 2.39,
+      "StockQuantity": 196884,
+      "Description": "Product 12 Description"
+    },
+    {
+      "Name": "Product 13",
+      "Price": 575.6,
+      "Rating": 4.38,
+      "StockQuantity": 673658,
+      "Description": "Product 13 Description"
+    },
+    {
+      "Name": "Product 14",
+      "Price": 492.35,
+      "Rating": 1.07,
+      "StockQuantity": 205143,
+      "Description": "Product 14 Description"
+    },
+    {
+      "Name": "Product 15",
+      "Price": 304.69,
+      "Rating": 2.62,
+      "StockQuantity": 388596,
+      "Description": "Product 15 Description"
+    },
+    {
+      "Name": "Product 16",
+      "Price": 845.15,
+      "Rating": 2.21,
+      "StockQuantity": 631658,
+      "Description": "Product 16 Description"
+    },
+    {
+      "Name": "Product 17",
+      "Price": 880.09,
+      "Rating": 1.49,
+      "StockQuantity": 65457,
+      "Description": "Product 17 Description"
+    },
+    {
+      "Name": "Product 18",
+      "Price": 51.66,
+      "Rating": 1.53,
+      "StockQuantity": 263383,
+      "Description": "Product 18 Description"
+    },
+    {
+      "Name": "Product 19",
+      "Price": 746.88,
+      "Rating": 4.71,
+      "StockQuantity": 616812,
+      "Description": "Product 19 Description"
+    },
+    {
+      "Name": "Product 20",
+      "Price": 17.1,
+      "Rating": 0.79,
+      "StockQuantity": 604774,
+      "Description": "Product 20 Description"
+    },
+    {
+      "Name": "Product 21",
+      "Price": 905.04,
+      "Rating": 3.71,
+      "StockQuantity": 909107,
+      "Description": "Product 21 Description"
+    },
+    {
+      "Name": "Product 22",
+      "Price": 184.41,
+      "Rating": 1.98,
+      "StockQuantity": 953695,
+      "Description": "Product 22 Description"
+    },
+    {
+      "Name": "Product 23",
+      "Price": 163.6,
+      "Rating": 0.81,
+      "StockQuantity": 341530,
+      "Description": "Product 23 Description"
+    },
+    {
+      "Name": "Product 24",
+      "Price": 196.27,
+      "Rating": 1.6,
+      "StockQuantity": 967173,
+      "Description": "Product 24 Description"
+    },
+    {
+      "Name": "Product 25",
+      "Price": 602.37,
+      "Rating": 0.13,
+      "StockQuantity": 162208,
+      "Description": "Product 25 Description"
+    },
+    {
+      "Name": "Product 26",
+      "Price": 564.82,
+      "Rating": 4.74,
+      "StockQuantity": 33021,
+      "Description": "Product 26 Description"
+    },
+    {
+      "Name": "Product 27",
+      "Price": 664.2,
+      "Rating": 0.13,
+      "StockQuantity": 363992,
+      "Description": "Product 27 Description"
+    },
+    {
+      "Name": "Product 28",
+      "Price": 685.1,
+      "Rating": 1.5,
+      "StockQuantity": 635092,
+      "Description": "Product 28 Description"
+    },
+    {
+      "Name": "Product 29",
+      "Price": 373.81,
+      "Rating": 1.06,
+      "StockQuantity": 35383,
+      "Description": "Product 29 Description"
+    },
+    {
+      "Name": "Product 30",
+      "Price": 669.97,
+      "Rating": 1.34,
+      "StockQuantity": 880242,
+      "Description": "Product 30 Description"
+    },
+    {
+      "Name": "Product 31",
+      "Price": 100.11,
+      "Rating": 0.49,
+      "StockQuantity": 896782,
+      "Description": "Product 31 Description"
+    },
+    {
+      "Name": "Product 32",
+      "Price": 22.99,
+      "Rating": 3.42,
+      "StockQuantity": 635344,
+      "Description": "Product 32 Description"
+    },
+    {
+      "Name": "Product 33",
+      "Price": 45.45,
+      "Rating": 0.34,
+      "StockQuantity": 456487,
+      "Description": "Product 33 Description"
+    },
+    {
+      "Name": "Product 34",
+      "Price": 847.6,
+      "Rating": 1.79,
+      "StockQuantity": 638956,
+      "Description": "Product 34 Description"
+    },
+    {
+      "Name": "Product 35",
+      "Price": 969.47,
+      "Rating": 3.66,
+      "StockQuantity": 248630,
+      "Description": "Product 35 Description"
+    }
+  ],
+  "ExpenseSummaries": [
+    {
+      "TotalExpenses": 40749250.15,
+      "Date": "2022-08-23T23:59:13Z"
+    },
+    {
+      "TotalExpenses": 82516685.25,
+      "Date": "2021-12-28T17:03:47Z"
+    },
+    {
+      "TotalExpenses": 41860250.4,
+      "Date": "2021-09-18T23:26:30Z"
+    },
+    {
+      "TotalExpenses": 49456718.68,
+      "Date": "2022-01-08T04:26:56Z"
+    },
+    {
+      "TotalExpenses": 35573786.54,
+      "Date": "2020-08-31T11:45:23Z"
+    },
+    {
+      "TotalExpenses": 43767088.74,
+      "Date": "2020-04-15T06:57:51Z"
+    },
+    {
+      "TotalExpenses": 75311886.34,
+      "Date": "2021-11-05T16:10:48Z"
+    },
+    {
+      "TotalExpenses": 25031430.77,
+      "Date": "2020-11-18T23:52:46Z"
+    },
+    {
+      "TotalExpenses": 95066201.16,
+      "Date": "2020-05-10T17:55:37Z"
+    },
+    {
+      "TotalExpenses": 43519955.41,
+      "Date": "2022-02-18T23:26:53Z"
+    },
+    {
+      "TotalExpenses": 11975718.82,
+      "Date": "2022-01-10T03:25:06Z"
+    },
+    {
+      "TotalExpenses": 51372909.22,
+      "Date": "2022-04-24T18:53:13Z"
+    },
+    {
+      "TotalExpenses": 74722976.97,
+      "Date": "2022-01-14T09:36:38Z"
+    },
+    {
+      "TotalExpenses": 75641467.74,
+      "Date": "2021-12-21T15:01:09Z"
+    },
+    {
+      "TotalExpenses": 25500681.97,
+      "Date": "2022-04-01T15:50:39Z"
+    },
+    {
+      "TotalExpenses": 539510.64,
+      "Date": "2020-01-13T13:28:34Z"
+    },
+    {
+      "TotalExpenses": 39145989.15,
+      "Date": "2022-04-13T22:53:06Z"
+    },
+    {
+      "TotalExpenses": 21149322.36,
+      "Date": "2022-03-11T04:03:13Z"
+    },
+    {
+      "TotalExpenses": 11169032.82,
+      "Date": "2021-08-06T01:20:04Z"
+    },
+    {
+      "TotalExpenses": 82993070.31,
+      "Date": "2021-08-03T10:58:02Z"
+    },
+    {
+      "TotalExpenses": 66908936.55,
+      "Date": "2020-08-05T18:45:02Z"
+    },
+    {
+      "TotalExpenses": 33514872.87,
+      "Date": "2021-11-24T13:21:00Z"
+    },
+    {
+      "TotalExpenses": 39634053.67,
+      "Date": "2021-01-30T15:52:39Z"
+    },
+    {
+      "TotalExpenses": 63931774.54,
+      "Date": "2021-10-05T02:05:46Z"
+    },
+    {
+      "TotalExpenses": 61688809.89,
+      "Date": "2022-07-02T22:34:16Z"
+    },
+    {
+      "TotalExpenses": 70074829.75,
+      "Date": "2022-09-20T00:25:06Z"
+    },
+    {
+      "TotalExpenses": 80265893.3,
+      "Date": "2022-12-21T05:58:49Z"
+    },
+    {
+      "TotalExpenses": 10938282.95,
+      "Date": "2021-11-01T20:28:10Z"
+    },
+    {
+      "TotalExpenses": 33591951.95,
+      "Date": "2021-11-23T16:52:43Z"
+    },
+    {
+      "TotalExpenses": 845358.59,
+      "Date": "2022-11-22T12:43:41Z"
+    },
+    {
+      "TotalExpenses": 66690967.68,
+      "Date": "2022-02-13T23:10:27Z"
+    },
+    {
+      "TotalExpenses": 43874777.57,
+      "Date": "2022-08-14T20:45:25Z"
+    },
+    {
+      "TotalExpenses": 40265520.46,
+      "Date": "2022-07-16T21:42:02Z"
+    },
+    {
+      "TotalExpenses": 50581576.01,
+      "Date": "2020-07-23T13:00:44Z"
+    },
+    {
+      "TotalExpenses": 68186405.58,
+      "Date": "2021-03-10T22:55:10Z"
+    },
+    {
+      "TotalExpenses": 71676578.77,
+      "Date": "2022-10-17T04:27:37Z"
+    },
+    {
+      "TotalExpenses": 44651450.2,
+      "Date": "2020-08-08T19:52:19Z"
+    },
+    {
+      "TotalExpenses": 98571536.55,
+      "Date": "2022-06-18T07:04:03Z"
+    },
+    {
+      "TotalExpenses": 31396413.25,
+      "Date": "2021-09-18T17:44:00Z"
+    },
+    {
+      "TotalExpenses": 30345484.18,
+      "Date": "2021-01-18T21:57:02Z"
+    },
+    {
+      "TotalExpenses": 78841883.13,
+      "Date": "2021-01-10T19:15:27Z"
+    },
+    {
+      "TotalExpenses": 1718619.1,
+      "Date": "2021-09-26T12:13:08Z"
+    },
+    {
+      "TotalExpenses": 97167385.15,
+      "Date": "2020-03-04T02:21:16Z"
+    }
+  ],
+  "ExpensesByCategory": [
+    {
+      "ExpenseSummaryId": 1,
+      "Date": "2023-11-23T11:54:21Z",
+      "Category": "Office",
+      "Amount": 48
+    },
+    {
+      "ExpenseSummaryId": 2,
+      "Date": "2023-08-13T09:49:33Z",
+      "Category": "Salaries",
+      "Amount": 66
+    },
+    {
+      "ExpenseSummaryId": 3,
+      "Date": "2023-07-24T09:26:56Z",
+      "Category": "Salaries",
+      "Amount": 63
+    },
+    {
+      "ExpenseSummaryId": 4,
+      "Date": "2023-05-24T05:24:15Z",
+      "Category": "Salaries",
+      "Amount": 77
+    },
+    {
+      "ExpenseSummaryId": 5,
+      "Date": "2023-05-07T12:33:09Z",
+      "Category": "Office",
+      "Amount": 67
+    },
+    {
+      "ExpenseSummaryId": 6,
+      "Date": "2024-01-08T22:08:30Z",
+      "Category": "Salaries",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 7,
+      "Date": "2023-06-11T08:03:25Z",
+      "Category": "Office",
+      "Amount": 57
+    },
+    {
+      "ExpenseSummaryId": 8,
+      "Date": "2023-07-10T00:15:57Z",
+      "Category": "Office",
+      "Amount": 34
+    },
+    {
+      "ExpenseSummaryId": 9,
+      "Date": "2023-12-16T19:29:15Z",
+      "Category": "Salaries",
+      "Amount": 43
+    },
+    {
+      "ExpenseSummaryId": 10,
+      "Date": "2023-07-04T04:49:15Z",
+      "Category": "Salaries",
+      "Amount": 62
+    },
+    {
+      "ExpenseSummaryId": 11,
+      "Date": "2023-10-18T18:41:07Z",
+      "Category": "Professional",
+      "Amount": 28
+    },
+    {
+      "ExpenseSummaryId": 12,
+      "Date": "2024-01-01T03:49:45Z",
+      "Category": "Office",
+      "Amount": 65
+    },
+    {
+      "ExpenseSummaryId": 13,
+      "Date": "2023-12-23T19:25:39Z",
+      "Category": "Salaries",
+      "Amount": 54
+    },
+    {
+      "ExpenseSummaryId": 14,
+      "Date": "2023-03-15T12:50:41Z",
+      "Category": "Salaries",
+      "Amount": 97
+    },
+    {
+      "ExpenseSummaryId": 15,
+      "Date": "2023-04-23T21:27:57Z",
+      "Category": "Professional",
+      "Amount": 94
+    },
+    {
+      "ExpenseSummaryId": 16,
+      "Date": "2023-05-11T09:55:13Z",
+      "Category": "Salaries",
+      "Amount": 24
+    },
+    {
+      "ExpenseSummaryId": 17,
+      "Date": "2023-06-16T16:48:42Z",
+      "Category": "Office",
+      "Amount": 59
+    },
+    {
+      "ExpenseSummaryId": 18,
+      "Date": "2023-09-30T05:02:44Z",
+      "Category": "Office",
+      "Amount": 54
+    },
+    {
+      "ExpenseSummaryId": 19,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 20,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 21,
+      "Date": "2023-08-06T08:45:27Z",
+      "Category": "Office",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 22,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 23,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 24,
+      "Date": "2023-08-06T08:45:27Z",
+      "Category": "Office",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 25,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 26,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 27,
+      "Date": "2023-08-06T08:45:27Z",
+      "Category": "Office",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 28,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 29,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 30,
+      "Date": "2023-08-06T08:45:27Z",
+      "Category": "Office",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 31,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 32,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 33,
+      "Date": "2024-01-08T08:48:51Z",
+      "Category": "Professional",
+      "Amount": 15
+    },
+    {
+      "ExpenseSummaryId": 34,
+      "Date": "2024-03-08T11:57:57Z",
+      "Category": "Professional",
+      "Amount": 94
+    },
+    {
+      "ExpenseSummaryId": 35,
+      "Date": "2024-02-15T10:50:32Z",
+      "Category": "Office",
+      "Amount": 94
+    },
+    {
+      "ExpenseSummaryId": 36,
+      "Date": "2023-08-13T13:25:33Z",
+      "Category": "Salaries",
+      "Amount": 10
+    },
+    {
+      "ExpenseSummaryId": 37,
+      "Date": "2024-03-11T08:04:25Z",
+      "Category": "Office",
+      "Amount": 18
+    },
+    {
+      "ExpenseSummaryId": 38,
+      "Date": "2023-08-26T01:40:17Z",
+      "Category": "Salaries",
+      "Amount": 82
+    },
+    {
+      "ExpenseSummaryId": 39,
+      "Date": "2024-02-03T20:08:28Z",
+      "Category": "Salaries",
+      "Amount": 95
+    },
+    {
+      "ExpenseSummaryId": 40,
+      "Date": "2023-10-07T22:01:48Z",
+      "Category": "Office",
+      "Amount": 91
+    },
+    {
+      "ExpenseSummaryId": 41,
+      "Date": "2024-01-27T17:00:00Z",
+      "Category": "Salaries",
+      "Amount": 77
+    },
+    {
+      "ExpenseSummaryId": 42,
+      "Date": "2023-07-03T02:00:59Z",
+      "Category": "Professional",
+      "Amount": 62
+    },
+    {
+      "ExpenseSummaryId": 43,
+      "Date": "2023-12-20T22:03:05Z",
+      "Category": "Salaries",
+      "Amount": 34
+    },
+    {
+      "ExpenseSummaryId": 44,
+      "Date": "2023-08-05T04:51:45Z",
+      "Category": "Salaries",
+      "Amount": 87
+    },
+    {
+      "ExpenseSummaryId": 45,
+      "Date": "2024-01-15T07:35:22Z",
+      "Category": "Salaries",
+      "Amount": 12
+    },
+    {
+      "ExpenseSummaryId": 46,
+      "Date": "2023-03-15T14:01:06Z",
+      "Category": "Salaries",
+      "Amount": 88
+    },
+    {
+      "ExpenseSummaryId": 47,
+      "Date": "2024-01-30T18:16:56Z",
+      "Category": "Salaries",
+      "Amount": 100
+    },
+    {
+      "ExpenseSummaryId": 48,
+      "Date": "2023-12-20T11:34:30Z",
+      "Category": "Office",
+      "Amount": 98
+    },
+    {
+      "ExpenseSummaryId": 49,
+      "Date": "2023-08-18T16:03:36Z",
+      "Category": "Professional",
+      "Amount": 78
+    },
+    {
+      "ExpenseSummaryId": 50,
+      "Date": "2023-08-06T08:45:27Z",
+      "Category": "Office",
+      "Amount": 12
+    }
+  ],
+  "Expenses": [
+    {
+      "Category": "Salaries",
+      "Amount": 1489153.5,
+      "Timestamp": "2022-08-27T18:35:57Z"
+    },
+    {
+      "Category": "Office",
+      "Amount": 1579039.97,
+      "Timestamp": "2020-05-12T19:39:50Z"
+    },
+    {
+      "Category": "Office",
+      "Amount": 607415.3,
+      "Timestamp": "2021-06-08T13:48:10Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 171044.25,
+      "Timestamp": "2022-10-03T22:21:20Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 303743.89,
+      "Timestamp": "2020-03-18T00:41:00Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 1707710.31,
+      "Timestamp": "2020-05-04T20:18:41Z"
+    },
+    {
+      "Category": "Office",
+      "Amount": 1375535.38,
+      "Timestamp": "2021-11-04T02:56:56Z"
+    },
+    {
+      "Category": "Office",
+      "Amount": 858502.63,
+      "Timestamp": "2020-09-04T19:49:29Z"
+    },
+    {
+      "Category": "Professional",
+      "Amount": 1557261.18,
+      "Timestamp": "2020-07-22T02:35:40Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 586616.74,
+      "Timestamp": "2021-01-18T01:06:07Z"
+    },
+    {
+      "Category": "Office",
+      "Amount": 1677605.54,
+      "Timestamp": "2022-07-12T16:33:04Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 1280249.59,
+      "Timestamp": "2021-09-09T05:45:26Z"
+    },
+    {
+      "Category": "Professional",
+      "Amount": 1851906.49,
+      "Timestamp": "2021-12-24T09:18:27Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 1791685.13,
+      "Timestamp": "2022-08-05T03:18:23Z"
+    },
+    {
+      "Category": "Salaries",
+      "Amount": 589917.71,
+      "Timestamp": "2021-05-19T17:43:00Z"
+    }
+  ],
+  "PurchaseSummaries": [
+    {
+      "TotalPurchased": 7599849.58,
+      "ChangePercentage": -50.31,
+      "Date": "2023-05-27T05:20:14Z"
+    },
+    {
+      "TotalPurchased": 5701783.0,
+      "ChangePercentage": -89.63,
+      "Date": "2023-12-05T05:52:50Z"
+    },
+    {
+      "TotalPurchased": 2875081.56,
+      "ChangePercentage": 97.28,
+      "Date": "2023-03-20T06:11:24Z"
+    },
+    {
+      "TotalPurchased": 5887134.05,
+      "ChangePercentage": 84.43,
+      "Date": "2023-12-16T17:22:23Z"
+    },
+    {
+      "TotalPurchased": 6700381.67,
+      "ChangePercentage": -15.4,
+      "Date": "2023-03-26T07:09:45Z"
+    },
+    {
+      "TotalPurchased": 3703183.4,
+      "ChangePercentage": 93.36,
+      "Date": "2023-09-12T18:48:33Z"
+    },
+    {
+      "TotalPurchased": 8183876.36,
+      "ChangePercentage": 10.75,
+      "Date": "2023-07-13T19:13:53Z"
+    },
+    {
+      "TotalPurchased": 6771390.73,
+      "ChangePercentage": 8.17,
+      "Date": "2023-04-17T20:13:19Z"
+    },
+    {
+      "TotalPurchased": 5362805.15,
+      "ChangePercentage": -69.92,
+      "Date": "2023-12-30T11:00:31Z"
+    },
+    {
+      "TotalPurchased": 7901696.36,
+      "ChangePercentage": -8.22,
+      "Date": "2024-01-02T01:46:59Z"
+    },
+    {
+      "TotalPurchased": 592809.08,
+      "ChangePercentage": -19.9,
+      "Date": "2023-07-07T19:23:16Z"
+    },
+    {
+      "TotalPurchased": 787656.13,
+      "ChangePercentage": -85.81,
+      "Date": "2023-07-10T16:48:15Z"
+    },
+    {
+      "TotalPurchased": 1358410.16,
+      "ChangePercentage": 81.52,
+      "Date": "2024-01-01T16:20:10Z"
+    },
+    {
+      "TotalPurchased": 9262819.3,
+      "ChangePercentage": -13.2,
+      "Date": "2024-01-08T04:29:17Z"
+    },
+    {
+      "TotalPurchased": 2892692.95,
+      "ChangePercentage": 4.89,
+      "Date": "2023-07-24T18:44:29Z"
+    },
+    {
+      "TotalPurchased": 8176245.28,
+      "ChangePercentage": -80.84,
+      "Date": "2024-02-07T16:49:38Z"
+    },
+    {
+      "TotalPurchased": 6376329.63,
+      "ChangePercentage": -17.35,
+      "Date": "2023-11-02T15:29:19Z"
+    },
+    {
+      "TotalPurchased": 490177.73,
+      "ChangePercentage": -65.94,
+      "Date": "2023-08-25T13:45:04Z"
+    },
+    {
+      "TotalPurchased": 8033241.77,
+      "ChangePercentage": -81.26,
+      "Date": "2023-11-16T18:22:18Z"
+    },
+    {
+      "TotalPurchased": 8113334.96,
+      "ChangePercentage": 18.99,
+      "Date": "2023-07-17T01:23:37Z"
+    },
+    {
+      "TotalPurchased": 2083304.59,
+      "ChangePercentage": -80.93,
+      "Date": "2023-09-27T23:20:39Z"
+    },
+    {
+      "TotalPurchased": 6278248.14,
+      "ChangePercentage": 8.44,
+      "Date": "2023-11-29T20:52:03Z"
+    },
+    {
+      "TotalPurchased": 5013546.73,
+      "ChangePercentage": -99.52,
+      "Date": "2023-08-01T12:30:43Z"
+    },
+    {
+      "TotalPurchased": 7883690.1,
+      "ChangePercentage": -95.76,
+      "Date": "2024-01-17T21:08:06Z"
+    },
+    {
+      "TotalPurchased": 9402337.34,
+      "ChangePercentage": 81.92,
+      "Date": "2024-01-21T00:14:36Z"
+    },
+    {
+      "TotalPurchased": 4571470.93,
+      "ChangePercentage": -19.34,
+      "Date": "2023-06-01T18:39:59Z"
+    },
+    {
+      "TotalPurchased": 4718798.68,
+      "ChangePercentage": 95.35,
+      "Date": "2024-02-06T03:40:01Z"
+    },
+    {
+      "TotalPurchased": 1087744.03,
+      "ChangePercentage": 24.69,
+      "Date": "2024-01-28T09:04:52Z"
+    },
+    {
+      "TotalPurchased": 3256718.55,
+      "ChangePercentage": 68.1,
+      "Date": "2023-08-07T10:29:19Z"
+    },
+    {
+      "TotalPurchased": 826579.41,
+      "ChangePercentage": -87.81,
+      "Date": "2023-11-19T02:00:54Z"
+    }
+  ],
+  "Purchases": [
+    {
+      "ProductId": 1,
+      "Timestamp": "2003-12-17T12:52:02Z",
+      "Quantity": 193,
+      "UnitCost": 2562.72,
+      "TotalCost": 788.08
+    },
+    {
+      "ProductId": 2,
+      "Timestamp": "2014-05-13T17:09:07Z",
+      "Quantity": 585,
+      "UnitCost": 1580.69,
+      "TotalCost": 2633.43
+    },
+    {
+      "ProductId": 3,
+      "Timestamp": "2006-10-21T15:28:13Z",
+      "Quantity": 938,
+      "UnitCost": 6197.05,
+      "TotalCost": 3487.61
+    },
+    {
+      "ProductId": 4,
+      "Timestamp": "2002-08-23T21:20:02Z",
+      "Quantity": 388,
+      "UnitCost": 3280.29,
+      "TotalCost": 21.24
+    },
+    {
+      "ProductId": 5,
+      "Timestamp": "2022-09-09T02:34:59Z",
+      "Quantity": 463,
+      "UnitCost": 4646.46,
+      "TotalCost": 273.21
+    },
+    {
+      "ProductId": 6,
+      "Timestamp": "2013-04-06T06:29:40Z",
+      "Quantity": 893,
+      "UnitCost": 2857.95,
+      "TotalCost": 7423.21
+    },
+    {
+      "ProductId": 7,
+      "Timestamp": "2002-06-17T12:03:13Z",
+      "Quantity": 22,
+      "UnitCost": 3180.14,
+      "TotalCost": 9077.46
+    },
+    {
+      "ProductId": 8,
+      "Timestamp": "2017-05-26T03:42:34Z",
+      "Quantity": 70,
+      "UnitCost": 4308.81,
+      "TotalCost": 1589.27
+    },
+    {
+      "ProductId": 9,
+      "Timestamp": "2013-02-03T13:03:56Z",
+      "Quantity": 208,
+      "UnitCost": 3424.81,
+      "TotalCost": 9545.07
+    },
+    {
+      "ProductId": 10,
+      "Timestamp": "2020-03-16T04:44:49Z",
+      "Quantity": 309,
+      "UnitCost": 9757.04,
+      "TotalCost": 9843.24
+    },
+    {
+      "ProductId": 11,
+      "Timestamp": "2011-08-01T04:44:36Z",
+      "Quantity": 97,
+      "UnitCost": 4437.3,
+      "TotalCost": 7227.92
+    },
+    {
+      "ProductId": 12,
+      "Timestamp": "2021-10-23T09:58:14Z",
+      "Quantity": 727,
+      "UnitCost": 6706.78,
+      "TotalCost": 3444.68
+    },
+    {
+      "ProductId": 13,
+      "Timestamp": "2013-12-25T00:37:26Z",
+      "Quantity": 246,
+      "UnitCost": 7074.43,
+      "TotalCost": 1551.41
+    },
+    {
+      "ProductId": 14,
+      "Timestamp": "2001-10-29T19:34:59Z",
+      "Quantity": 193,
+      "UnitCost": 1576.29,
+      "TotalCost": 5458.34
+    },
+    {
+      "ProductId": 15,
+      "Timestamp": "2008-05-09T00:34:59Z",
+      "Quantity": 265,
+      "UnitCost": 9629.95,
+      "TotalCost": 9902.55
+    },
+    {
+      "ProductId": 16,
+      "Timestamp": "2018-12-12T10:12:24Z",
+      "Quantity": 342,
+      "UnitCost": 9107.59,
+      "TotalCost": 9187.51
+    },
+    {
+      "ProductId": 17,
+      "Timestamp": "2022-11-23T16:45:20Z",
+      "Quantity": 623,
+      "UnitCost": 3511.85,
+      "TotalCost": 8448.84
+    },
+    {
+      "ProductId": 18,
+      "Timestamp": "2016-06-18T10:26:07Z",
+      "Quantity": 856,
+      "UnitCost": 584.88,
+      "TotalCost": 6455.21
+    },
+    {
+      "ProductId": 19,
+      "Timestamp": "2003-08-07T17:41:10Z",
+      "Quantity": 839,
+      "UnitCost": 1488.73,
+      "TotalCost": 403.2
+    },
+    {
+      "ProductId": 20,
+      "Timestamp": "2010-09-20T14:09:37Z",
+      "Quantity": 763,
+      "UnitCost": 2083.13,
+      "TotalCost": 9062.53
+    },
+    {
+      "ProductId": 21,
+      "Timestamp": "2016-08-03T19:45:31Z",
+      "Quantity": 675,
+      "UnitCost": 6611.91,
+      "TotalCost": 2353.38
+    },
+    {
+      "ProductId": 22,
+      "Timestamp": "2005-03-28T16:39:46Z",
+      "Quantity": 839,
+      "UnitCost": 1488.73,
+      "TotalCost": 403.2
+    },
+    {
+      "ProductId": 23,
+      "Timestamp": "2010-09-11T18:58:14Z",
+      "Quantity": 776,
+      "UnitCost": 9893.08,
+      "TotalCost": 2071.46
+    },
+    {
+      "ProductId": 24,
+      "Timestamp": "2011-06-19T11:19:53Z",
+      "Quantity": 720,
+      "UnitCost": 3132.2,
+      "TotalCost": 1104.45
+    },
+    {
+      "ProductId": 25,
+      "Timestamp": "2001-12-13T15:26:09Z",
+      "Quantity": 392,
+      "UnitCost": 4880.07,
+      "TotalCost": 7915.32
+    },
+    {
+      "ProductId": 26,
+      "Timestamp": "2019-07-06T09:30:09Z",
+      "Quantity": 265,
+      "UnitCost": 2609.83,
+      "TotalCost": 1980.18
+    },
+    {
+      "ProductId": 27,
+      "Timestamp": "2005-08-17T21:00:54Z",
+      "Quantity": 984,
+      "UnitCost": 8085.15,
+      "TotalCost": 8511.07
+    },
+    {
+      "ProductId": 28,
+      "Timestamp": "2003-10-14T08:56:13Z",
+      "Quantity": 575,
+      "UnitCost": 6609.95,
+      "TotalCost": 3212.6
+    },
+    {
+      "ProductId": 29,
+      "Timestamp": "2009-01-26T02:37:46Z",
+      "Quantity": 324,
+      "UnitCost": 5032.83,
+      "TotalCost": 6453.79
+    },
+    {
+      "ProductId": 30,
+      "Timestamp": "2017-09-20T01:05:24Z",
+      "Quantity": 859,
+      "UnitCost": 9826.12,
+      "TotalCost": 4717.49
+    },
+    {
+      "ProductId": 31,
+      "Timestamp": "2014-11-05T03:06:06Z",
+      "Quantity": 713,
+      "UnitCost": 8238.67,
+      "TotalCost": 6012.29
+    },
+    {
+      "ProductId": 32,
+      "Timestamp": "2008-11-29T17:59:44Z",
+      "Quantity": 230,
+      "UnitCost": 684.84,
+      "TotalCost": 202.1
+    },
+    {
+      "ProductId": 33,
+      "Timestamp": "2018-03-14T04:27:34Z",
+      "Quantity": 247,
+      "UnitCost": 7781.32,
+      "TotalCost": 55.1
+    },
+    {
+      "ProductId": 34,
+      "Timestamp": "2010-05-03T03:18:22Z",
+      "Quantity": 267,
+      "UnitCost": 5.18,
+      "TotalCost": 5559.82
+    }
+  ],
+  "Sales": [
+    {
+      "ProductId": 1,
+      "Timestamp": "2023-12-25T10:27:27Z",
+      "Quantity": 484,
+      "UnitPrice": 280.73,
+      "TotalAmount": 5679.77
+    },
+    {
+      "ProductId": 2,
+      "Timestamp": "2023-08-16T06:01:27Z",
+      "Quantity": 260,
+      "UnitPrice": 232.89,
+      "TotalAmount": 3765.82
+    },
+    {
+      "ProductId": 3,
+      "Timestamp": "2023-10-02T16:42:02Z",
+      "Quantity": 718,
+      "UnitPrice": 685.31,
+      "TotalAmount": 6321.19
+    },
+    {
+      "ProductId": 4,
+      "Timestamp": "2023-06-10T02:42:28Z",
+      "Quantity": 297,
+      "UnitPrice": 953.45,
+      "TotalAmount": 2757.43
+    },
+    {
+      "ProductId": 5,
+      "Timestamp": "2023-07-16T21:58:15Z",
+      "Quantity": 447,
+      "UnitPrice": 777.27,
+      "TotalAmount": 4574.02
+    },
+    {
+      "ProductId": 6,
+      "Timestamp": "2023-06-17T10:37:35Z",
+      "Quantity": 390,
+      "UnitPrice": 855.29,
+      "TotalAmount": 4044.96
+    },
+    {
+      "ProductId": 7,
+      "Timestamp": "2024-01-31T06:04:28Z",
+      "Quantity": 851,
+      "UnitPrice": 170.23,
+      "TotalAmount": 9399.42
+    },
+    {
+      "ProductId": 8,
+      "Timestamp": "2023-05-03T13:57:12Z",
+      "Quantity": 882,
+      "UnitPrice": 973.95,
+      "TotalAmount": 4241.28
+    },
+    {
+      "ProductId": 9,
+      "Timestamp": "2023-10-22T01:09:46Z",
+      "Quantity": 830,
+      "UnitPrice": 200.27,
+      "TotalAmount": 3059.84
+    },
+    {
+      "ProductId": 10,
+      "Timestamp": "2023-05-09T15:02:48Z",
+      "Quantity": 414,
+      "UnitPrice": 924.09,
+      "TotalAmount": 8604.22
+    },
+    {
+      "ProductId": 11,
+      "Timestamp": "2023-03-23T16:14:23Z",
+      "Quantity": 390,
+      "UnitPrice": 792.89,
+      "TotalAmount": 6503.0
+    },
+    {
+      "ProductId": 12,
+      "Timestamp": "2024-02-22T07:16:30Z",
+      "Quantity": 391,
+      "UnitPrice": 685.29,
+      "TotalAmount": 9900.96
+    },
+    {
+      "ProductId": 13,
+      "Timestamp": "2023-05-04T23:00:53Z",
+      "Quantity": 309,
+      "UnitPrice": 639.66,
+      "TotalAmount": 9964.61
+    },
+    {
+      "ProductId": 14,
+      "Timestamp": "2023-08-23T17:23:35Z",
+      "Quantity": 325,
+      "UnitPrice": 471.59,
+      "TotalAmount": 7706.41
+    },
+    {
+      "ProductId": 15,
+      "Timestamp": "2024-02-22T06:16:55Z",
+      "Quantity": 857,
+      "UnitPrice": 197.36,
+      "TotalAmount": 760.65
+    },
+    {
+      "ProductId": 16,
+      "Timestamp": "2023-12-15T21:21:09Z",
+      "Quantity": 25,
+      "UnitPrice": 158.12,
+      "TotalAmount": 243.15
+    },
+    {
+      "ProductId": 17,
+      "Timestamp": "2024-02-06T13:55:02Z",
+      "Quantity": 757,
+      "UnitPrice": 283.2,
+      "TotalAmount": 7420.27
+    },
+    {
+      "ProductId": 18,
+      "Timestamp": "2023-05-20T14:26:19Z",
+      "Quantity": 580,
+      "UnitPrice": 659.75,
+      "TotalAmount": 5018.42
+    },
+    {
+      "ProductId": 19,
+      "Timestamp": "2023-07-01T04:46:47Z",
+      "Quantity": 948,
+      "UnitPrice": 620.57,
+      "TotalAmount": 7555.21
+    },
+    {
+      "ProductId": 20,
+      "Timestamp": "2023-11-10T12:34:56Z",
+      "Quantity": 123,
+      "UnitPrice": 456.78,
+      "TotalAmount": 7890.12
+    },
+    {
+      "ProductId": 21,
+      "Timestamp": "2023-10-15T08:23:45Z",
+      "Quantity": 456,
+      "UnitPrice": 123.45,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 22,
+      "Timestamp": "2023-09-20T14:12:34Z",
+      "Quantity": 789,
+      "UnitPrice": 234.56,
+      "TotalAmount": 8901.23
+    },
+    {
+      "ProductId": 23,
+      "Timestamp": "2023-08-25T10:01:23Z",
+      "Quantity": 321,
+      "UnitPrice": 345.67,
+      "TotalAmount": 1234.56
+    },
+    {
+      "ProductId": 24,
+      "Timestamp": "2023-07-30T06:50:12Z",
+      "Quantity": 654,
+      "UnitPrice": 456.78,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 25,
+      "Timestamp": "2023-07-05T03:39:01Z",
+      "Quantity": 987,
+      "UnitPrice": 567.89,
+      "TotalAmount": 6789.01
+    },
+    {
+      "ProductId": 26,
+      "Timestamp": "2023-06-10T00:27:50Z",
+      "Quantity": 123,
+      "UnitPrice": 678.90,
+      "TotalAmount": 7890.12
+    },
+    {
+      "ProductId": 27,
+      "Timestamp": "2023-05-15T21:16:39Z",
+      "Quantity": 456,
+      "UnitPrice": 789.01,
+      "TotalAmount": 8901.23
+    },
+    {
+      "ProductId": 28,
+      "Timestamp": "2023-04-20T18:05:28Z",
+      "Quantity": 789,
+      "UnitPrice": 890.12,
+      "TotalAmount": 9012.34
+    },
+    {
+      "ProductId": 29,
+      "Timestamp": "2023-03-25T14:54:17Z",
+      "Quantity": 321,
+      "UnitPrice": 901.23,
+      "TotalAmount": 1234.56
+    },
+    {
+      "ProductId": 30,
+      "Timestamp": "2023-02-28T10:43:06Z",
+      "Quantity": 654,
+      "UnitPrice": 123.45,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 31,
+      "Timestamp": "2023-01-31T06:31:55Z",
+      "Quantity": 987,
+      "UnitPrice": 234.56,
+      "TotalAmount": 6789.01
+    },
+    {
+      "ProductId": 32,
+      "Timestamp": "2023-12-05T02:20:44Z",
+      "Quantity": 123,
+      "UnitPrice": 345.67,
+      "TotalAmount": 7890.12
+    },
+    {
+      "ProductId": 33,
+      "Timestamp": "2023-11-10T22:09:33Z",
+      "Quantity": 456,
+      "UnitPrice": 456.78,
+      "TotalAmount": 8901.23
+    },
+    {
+      "ProductId": 34,
+      "Timestamp": "2023-10-15T18:58:22Z",
+      "Quantity": 789,
+      "UnitPrice": 567.89,
+      "TotalAmount": 9012.34
+    },
+    {
+      "ProductId": 35,
+      "Timestamp": "2023-09-20T14:47:11Z",
+      "Quantity": 321,
+      "UnitPrice": 678.90,
+      "TotalAmount": 1234.56
+    },
+    {
+      "ProductId": 36,
+      "Timestamp": "2023-08-25T10:36:00Z",
+      "Quantity": 654,
+      "UnitPrice": 789.01,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 37,
+      "Timestamp": "2023-07-30T06:24:49Z",
+      "Quantity": 987,
+      "UnitPrice": 890.12,
+      "TotalAmount": 6789.01
+    },
+    {
+      "ProductId": 38,
+      "Timestamp": "2023-06-10T02:13:38Z",
+      "Quantity": 123,
+      "UnitPrice": 901.23,
+      "TotalAmount": 7890.12
+    },
+    {
+      "ProductId": 39,
+      "Timestamp": "2023-05-15T22:02:27Z",
+      "Quantity": 456,
+      "UnitPrice": 123.45,
+      "TotalAmount": 8901.23
+    },
+    {
+      "ProductId": 40,
+      "Timestamp": "2023-04-20T18:51:16Z",
+      "Quantity": 789,
+      "UnitPrice": 234.56,
+      "TotalAmount": 9012.34
+    },
+    {
+      "ProductId": 41,
+      "Timestamp": "2023-03-25T14:40:05Z",
+      "Quantity": 321,
+      "UnitPrice": 345.67,
+      "TotalAmount": 1234.56
+    },
+    {
+      "ProductId": 42,
+      "Timestamp": "2023-02-28T10:28:54Z",
+      "Quantity": 654,
+      "UnitPrice": 456.78,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 43,
+      "Timestamp": "2023-01-31T06:17:43Z",
+      "Quantity": 987,
+      "UnitPrice": 567.89,
+      "TotalAmount": 6789.01
+    },
+    {
+      "ProductId": 44,
+      "Timestamp": "2023-12-05T02:03:32Z",
+      "Quantity": 123,
+      "UnitPrice": 678.90,
+      "TotalAmount": 7890.12
+    },
+    {
+      "ProductId": 45,
+      "Timestamp": "2023-11-10T21:52:21Z",
+      "Quantity": 456,
+      "UnitPrice": 789.01,
+      "TotalAmount": 8901.23
+    },
+    {
+      "ProductId": 46,
+      "Timestamp": "2023-10-15T18:41:10Z",
+      "Quantity": 789,
+      "UnitPrice": 890.12,
+      "TotalAmount": 9012.34
+    },
+    {
+      "ProductId": 47,
+      "Timestamp": "2023-09-20T14:30:59Z",
+      "Quantity": 321,
+      "UnitPrice": 901.23,
+      "TotalAmount": 1234.56
+    },
+    {
+      "ProductId": 48,
+      "Timestamp": "2023-08-25T10:19:48Z",
+      "Quantity": 654,
+      "UnitPrice": 123.45,
+      "TotalAmount": 5678.90
+    },
+    {
+      "ProductId": 49,
+      "Timestamp": "2023-07-30T06:08:37Z",
+      "Quantity": 987,
+      "UnitPrice": 234.56,
+      "TotalAmount": 6789.01
+    },
+    {
+      "ProductId": 50,
+      "Timestamp": "2023-06-10T01:57:25Z",
+      "Quantity": 123,
+      "UnitPrice": 345.67,
+      "TotalAmount": 7890.12
+    }
+  ],
+  "SaleSummaries": [
+    {
+      "TotalValue": 4754106.83,
+      "ChangePercentage": 61.51,
+      "Date": "2023-03-18T22:32:25Z"
+    },
+    {
+      "TotalValue": 1512948.97,
+      "ChangePercentage": -2.28,
+      "Date": "2023-09-03T13:50:20Z"
+    },
+    {
+      "TotalValue": 5545737.54,
+      "ChangePercentage": -55.29,
+      "Date": "2023-07-28T13:16:27Z"
+    },
+    {
+      "TotalValue": 3260113.92,
+      "ChangePercentage": -71.7,
+      "Date": "2023-05-16T08:32:38Z"
+    },
+    {
+      "TotalValue": 849737.25,
+      "ChangePercentage": 9.16,
+      "Date": "2023-08-26T05:41:40Z"
+    },
+    {
+      "TotalValue": 98903.57,
+      "ChangePercentage": 36.24,
+      "Date": "2023-09-02T01:49:46Z"
+    },
+    {
+      "TotalValue": 973557.25,
+      "ChangePercentage": 34.22,
+      "Date": "2023-03-31T15:20:53Z"
+    },
+    {
+      "TotalValue": 9761085.56,
+      "ChangePercentage": -57.32,
+      "Date": "2023-06-25T12:21:04Z"
+    },
+    {
+      "TotalValue": 9819343.72,
+      "ChangePercentage": -49.57,
+      "Date": "2023-06-21T17:57:01Z"
+    },
+    {
+      "TotalValue": 2757578.95,
+      "ChangePercentage": 73.95,
+      "Date": "2023-05-13T15:02:46Z"
+    },
+    {
+      "TotalValue": 8894817.67,
+      "ChangePercentage": -25.81,
+      "Date": "2023-03-31T16:04:25Z"
+    },
+    {
+      "TotalValue": 2882180.14,
+      "ChangePercentage": 57.29,
+      "Date": "2024-03-13T01:19:11Z"
+    },
+    {
+      "TotalValue": 543716.99,
+      "ChangePercentage": 8.85,
+      "Date": "2024-02-04T05:14:46Z"
+    },
+    {
+      "TotalValue": 1171786.52,
+      "ChangePercentage": 79.4,
+      "Date": "2023-04-20T00:12:05Z"
+    },
+    {
+      "TotalValue": 9574424.72,
+      "ChangePercentage": 10.42,
+      "Date": "2023-04-04T22:57:17Z"
+    },
+    {
+      "TotalValue": 1717855.75,
+      "ChangePercentage": -76.77,
+      "Date": "2023-07-24T23:01:04Z"
+    },
+    {
+      "TotalValue": 1328587.6,
+      "ChangePercentage": 62.35,
+      "Date": "2023-12-30T03:52:12Z"
+    },
+    {
+      "TotalValue": 3363438.49,
+      "ChangePercentage": -3.73,
+      "Date": "2023-06-16T12:55:40Z"
+    },
+    {
+      "TotalValue": 6253195.27,
+      "ChangePercentage": -33.39,
+      "Date": "2023-05-12T13:22:28Z"
+    },
+    {
+      "TotalValue": 759235.03,
+      "ChangePercentage": -70.16,
+      "Date": "2023-05-04T03:54:06Z"
+    },
+    {
+      "TotalValue": 8849902.08,
+      "ChangePercentage": 49.99,
+      "Date": "2023-10-23T10:52:58Z"
+    },
+    {
+      "TotalValue": 6985354.53,
+      "ChangePercentage": -45.28,
+      "Date": "2023-06-12T08:59:54Z"
+    },
+    {
+      "TotalValue": 1977818.88,
+      "ChangePercentage": -1.73,
+      "Date": "2023-07-30T18:47:25Z"
+    },
+    {
+      "TotalValue": 3051711.61,
+      "ChangePercentage": 46.06,
+      "Date": "2023-06-21T19:26:53Z"
+    },
+    {
+      "TotalValue": 1776483.92,
+      "ChangePercentage": 5.92,
+      "Date": "2024-01-04T23:05:09Z"
+    },
+    {
+      "TotalValue": 8008789.18,
+      "ChangePercentage": -92.62,
+      "Date": "2023-07-11T05:46:12Z"
+    },
+    {
+      "TotalValue": 9939857.2,
+      "ChangePercentage": 43.61,
+      "Date": "2023-11-03T17:55:50Z"
+    },
+    {
+      "TotalValue": 7378147.37,
+      "ChangePercentage": -8.68,
+      "Date": "2023-06-02T21:55:25Z"
+    },
+    {
+      "TotalValue": 5903962.21,
+      "ChangePercentage": 54.41,
+      "Date": "2023-04-15T12:08:49Z"
+    },
+    {
+      "TotalValue": 3995392.55,
+      "ChangePercentage": -39.88,
+      "Date": "2023-06-04T10:27:19Z"
+    },
+    {
+      "TotalValue": 2236665.35,
+      "ChangePercentage": 62.25,
+      "Date": "2023-04-26T18:00:10Z"
+    },
+    {
+      "TotalValue": 4924895.6,
+      "ChangePercentage": 91.7,
+      "Date": "2023-10-03T09:22:11Z"
+    },
+    {
+      "TotalValue": 8020749.83,
+      "ChangePercentage": -53.71,
+      "Date": "2023-09-09T18:08:04Z"
+    },
+    {
+      "TotalValue": 1401814.98,
+      "ChangePercentage": -62.89,
+      "Date": "2024-01-23T21:18:15Z"
+    },
+    {
+      "TotalValue": 7075340.95,
+      "ChangePercentage": 51.63,
+      "Date": "2023-04-12T18:35:19Z"
+    },
+    {
+      "TotalValue": 6635158.49,
+      "ChangePercentage": 1.55,
+      "Date": "2024-01-08T18:20:24Z"
+    },
+    {
+      "TotalValue": 5438733.13,
+      "ChangePercentage": 64.23,
+      "Date": "2023-06-04T03:34:31Z"
+    },
+    {
+      "TotalValue": 8733498.2,
+      "ChangePercentage": -9.14,
+      "Date": "2023-06-18T12:45:24Z"
+    },
+    {
+      "TotalValue": 8834598.88,
+      "ChangePercentage": -74.91,
+      "Date": "2023-09-18T22:57:29Z"
+    },
+    {
+      "TotalValue": 1518126.03,
+      "ChangePercentage": 22.59,
+      "Date": "2024-02-17T06:29:57Z"
+    },
+    {
+      "TotalValue": 8916033.73,
+      "ChangePercentage": -70.49,
+      "Date": "2023-11-23T06:52:42Z"
+    },
+    {
+      "TotalValue": 8457395.47,
+      "ChangePercentage": 58.85,
+      "Date": "2023-06-14T06:58:44Z"
+    },
+    {
+      "TotalValue": 2131348.79,
+      "ChangePercentage": -46.72,
+      "Date": "2023-04-07T03:15:00Z"
+    },
+    {
+      "TotalValue": 4439655.91,
+      "ChangePercentage": -10.54,
+      "Date": "2023-08-08T00:53:14Z"
+    },
+    {
+      "TotalValue": 2253721.94,
+      "ChangePercentage": -26.4,
+      "Date": "2023-12-04T03:33:12Z"
+    },
+    {
+      "TotalValue": 3844322.3,
+      "ChangePercentage": -23.92,
+      "Date": "2023-07-18T05:39:04Z"
+    },
+    {
+      "TotalValue": 3145456.83,
+      "ChangePercentage": -80.96,
+      "Date": "2023-05-18T14:04:36Z"
+    },
+    {
+      "TotalValue": 5041224.3,
+      "ChangePercentage": 50.26,
+      "Date": "2023-08-15T23:43:31Z"
+    },
+    {
+      "TotalValue": 8409410.21,
+      "ChangePercentage": 27.52,
+      "Date": "2024-01-01T14:21:37Z"
+    },
+    {
+      "TotalValue": 4049054.53,
+      "ChangePercentage": -9.75,
+      "Date": "2023-04-08T22:11:59Z"
+    }
+  ]
+}
