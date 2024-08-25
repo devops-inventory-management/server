@@ -1,5 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\DevOpsInventoryManagement.Domain\DevOpsInventoryManagement.Domain.csproj" />
+    <ProjectReference Include="..\DevOpsInventoryManagement.DAL\DevOpsInventoryManagement.DAL.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
