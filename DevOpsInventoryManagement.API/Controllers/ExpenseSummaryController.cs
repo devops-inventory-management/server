@@ -9,7 +9,7 @@ public class ExpenseSummaryController(IExpenseSummaryService expenseSummaryServi
 {
     private readonly IExpenseSummaryService _expenseSummaryService = expenseSummaryService;
 
-    [HttpGet]
+    [HttpGet("/expense-summary")]
     public IActionResult GetAll()
     {
         return Ok(_expenseSummaryService.GetAll());

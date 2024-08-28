@@ -9,7 +9,7 @@ public class SaleSummaryController(ISaleSummaryService saleSummaryService) : Con
 {
     private readonly ISaleSummaryService _saleSummaryService = saleSummaryService;
 
-    [HttpGet]
+    [HttpGet("/sale-summary")]
     public IActionResult GetAll()
     {
         return Ok(_saleSummaryService.GetAll());

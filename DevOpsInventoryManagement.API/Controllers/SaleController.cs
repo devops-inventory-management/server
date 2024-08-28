@@ -9,7 +9,7 @@ public class SaleController(ISaleService saleService) : ControllerBase
 {
     private readonly ISaleService _saleService = saleService;
 
-    [HttpGet]
+    [HttpGet("/sale")]
     public IActionResult GetAll()
     {
         return Ok(_saleService.GetAll());

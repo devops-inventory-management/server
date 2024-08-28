@@ -9,7 +9,7 @@ public class UserController(IUserService userService) : ControllerBase
 {
     private readonly IUserService _userService = userService;
 
-    [HttpGet]
+    [HttpGet("/users")]
     public IActionResult GetAll()
     {
         return Ok(_userService.GetAll());

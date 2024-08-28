@@ -10,7 +10,7 @@ public class PurchaseSummaryController(IPurchaseSummaryService purchaseSummarySe
 {
     private readonly IPurchaseSummaryService _purchaseSummaryService = purchaseSummaryService;
 
-    [HttpGet]
+    [HttpGet("/purchase-summary")]
     public IActionResult GetAll()
     {
         return Ok(_purchaseSummaryService.GetAll());

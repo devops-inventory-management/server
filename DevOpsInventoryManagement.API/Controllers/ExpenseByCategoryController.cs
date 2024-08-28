@@ -10,7 +10,7 @@ public class ExpenseByCategoryController(IExpenseByCategoryService expenseByCate
 {
     private readonly IExpenseByCategoryService _expenseByCategoryService = expenseByCategoryService;
 
-    [HttpGet]
+    [HttpGet("/expense-by-category")]
     public IActionResult GetAll()
     {
         return Ok(_expenseByCategoryService.GetAll());

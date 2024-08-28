@@ -9,7 +9,7 @@ public class PurchaseController(IPurchaseService purchaseService) : ControllerBa
 {
     private readonly IPurchaseService _purchaseService = purchaseService;
 
-    [HttpGet]
+    [HttpGet("/purchase")]
     public IActionResult GetAll()
     {
         return Ok(_purchaseService.GetAll());

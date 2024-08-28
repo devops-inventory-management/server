@@ -9,7 +9,7 @@ public class ExpenseController(IExpenseService expenseService) : ControllerBase
 {
     private readonly IExpenseService _expenseService = expenseService;
 
-    [HttpGet]
+    [HttpGet("/expenses")]
     public IActionResult GetAll()
     {
         return Ok(_expenseService.GetAll());

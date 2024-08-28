@@ -11,13 +11,13 @@ public class ProductController(IProductService productService) : ControllerBase
 {
     private readonly IProductService _productService = productService;
 
-    [HttpGet]
+    [HttpGet("/products")]
     public IActionResult GetAll()
     {
         return Ok(_productService.GetAll());
     }
 
-    [HttpPost]
+    [HttpPost("/products")]
     public IActionResult Add(ProductForCreationDto product)
     {
         _productService.Add(product.ToDomain());
