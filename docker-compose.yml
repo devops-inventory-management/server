@@ -9,6 +9,7 @@ services:
       - "6432:5432"
     volumes:
       - db_data:/var/lib/postgresql/data
+    # Check if the database is ready
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres -d postgres"]
       interval: 10s
@@ -20,14 +21,18 @@ services:
     build:
       context: .
       dockerfile: DevOpsInventoryManagement.API/docker/api/Dockerfile
+    # Tag the image
     image: devopsinventorymanagementapi:latest
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Host=db;Username=postgres;Password=postgres;Database=DevOpsInventoryManagement
     depends_on:
       db:
+        # Wait for the database to be ready
         condition: service_healthy
+    # Set the working directory
     working_dir: /app/DevOpsInventoryManagement.API
+    # Run the database update command
     command: >
       dotnet ef database update
 
@@ -39,8 +44,10 @@ services:
       - "8090:80"
     depends_on:
       api:
+        # Wait for the API to be ready
         condition: service_completed_successfully
       db:
+        # Wait for the database to be ready
         condition: service_healthy
     links:
       - db
